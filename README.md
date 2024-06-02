@@ -1,8 +1,6 @@
-Rifa de Celulares
+# **Rifa de Celulares**
 
 Participa y Gana: Todo lo que Necesitas Saber sobre la Rifa de Celulares
-
-Introducción
 
 ¿Te imaginas ganar un celular nuevo sin tener que gastar mucho dinero? Las rifas de celulares se han convertido en una tendencia emocionante y accesible para muchas personas. No solo ofrecen la posibilidad de obtener el último modelo de smartphone a un precio mínimo, sino que también añaden un toque de emoción a la rutina diaria.
 
